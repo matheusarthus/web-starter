@@ -4,7 +4,7 @@ import React from 'react';
 import GlobalStyle from './styles/global'; */
 
 function App() {
-  return <h1>TESTE</h1>;
+  return <h1>HELLO, WORLD!</h1>;
 }
 
 export default App;
